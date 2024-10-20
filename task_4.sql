@@ -1,1 +1,2 @@
 SHOW COLUMNS FROM books;
+
