@@ -1,2 +1,1 @@
 SHOW COLUMNS FROM books;
-
